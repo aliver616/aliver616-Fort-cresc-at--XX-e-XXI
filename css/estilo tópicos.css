@@ -41,5 +41,8 @@ img{
 }
 .images{
     align-items: center; 
-    display: flex
+    display: flex;
+    justify-content: center;
+    height: auto;
+    max-height: 120px;
 }
