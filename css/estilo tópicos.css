@@ -11,11 +11,16 @@ body{
     border-width: 0px 0px 1vw 0px;
     text-align: center;
     display: block;
+    margin-right: 100%;
+    margin-left:100%;
 }
 .subtitulo{
     font-size: clamp(1.4rem, 2vw+1rem,1.8rem);
     text-align: center;
     display: block;
+    margin-right: 100%;
+    margin-left:100%;
+    margin-bottom: 10px;
 }
 .paragrafo{
     font-size: clamp(1rem, 2vw+0.5rem, 1.4rem);
