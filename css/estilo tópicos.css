@@ -44,7 +44,6 @@ img{
     display: flex;
     justify-content: center;
     height: auto;
-    position: absolute;
     flex-direction: column;
 }
 img{
