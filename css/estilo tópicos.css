@@ -45,8 +45,8 @@ img{
     justify-content: center;
     height: auto;
 }
-.imagens p{
-    display:flex inline-block;
+p{
+    display: flex inline-block;
     flex-wrap: wrap; 
-    font-size: 5vw;
+    font-size: 4px;
 }
