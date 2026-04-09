@@ -59,6 +59,8 @@ img{
     align-items: center;
 }
 b{
-    display:flex; 
+    display:flex inline-block; 
     flex-direction:row;
+    margin: 0;
+    
 }
