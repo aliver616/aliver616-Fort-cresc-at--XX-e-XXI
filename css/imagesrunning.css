@@ -9,7 +9,7 @@
   animation: rolar 30s linear infinite;
 }
 .scroll img {
-  width: clamp(100px, 150vw, 200px);
+  width: 200px;
   margin-right: 10px;
 }
 @keyframes rolar {
@@ -23,12 +23,12 @@
 .canva{
   border-style:solid;
   box-sizing: border-box;
-  border-width: clamp(2px, 3vw, 4px);
+  border-width: 2px;
 }
 .canva img{
   display: flex;
   flex-direction: column;
-  width: clamp(100px, 200vw, 300px);
+  width: 100px;
   height: auto;
   column-gap: normal;
 }
