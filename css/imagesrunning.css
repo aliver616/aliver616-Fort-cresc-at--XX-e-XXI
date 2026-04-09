@@ -1,1 +1,22 @@
-
+.conteiner2{
+    width: 100%;
+    overflow: hidden;
+    mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+}
+.scroll{
+    display: flex;
+  width: max-content;
+  animation: rolar 30s linear infinite;
+}
+.scroll img {
+  width: 200px;
+  margin-right: 10px;
+}
+@keyframes rolar {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
