@@ -24,11 +24,12 @@
   border-style:solid;
   box-sizing: border-box;
   border-width: 2px;
+  align-items: center;
 }
 .canva img{
   display: flex;
   flex-direction: column;
-  width: 100px;
+  width: 200px;
   height: auto;
   column-gap: normal;
 }
