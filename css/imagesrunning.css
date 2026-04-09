@@ -9,8 +9,8 @@
   animation: rolar 30s linear infinite;
 }
 .scroll img {
-  width: 200vw;
-  margin-right: 10vw;
+  width: clamp(100px, 150vw, 200px);
+  margin-right: 10px;
 }
 @keyframes rolar {
   from {
