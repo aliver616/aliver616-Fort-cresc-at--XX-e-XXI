@@ -47,10 +47,14 @@ img{
     flex-direction: column;
 }
 img{
-    margin: 5px 0;
+    margin: 1vw 0;
 }
 .txt{
-    display: flex inline-block;
+    display: flex;
     flex-wrap: wrap; 
     font-size: 4px;
+    justify-content: center;
+    height:auto;
+    flex-direction:column;
+    align-items: center;
 }
