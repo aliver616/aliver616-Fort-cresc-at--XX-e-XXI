@@ -10,6 +10,7 @@ h1{
     flex-wrap: wrap;
     gap: 20px;
 }
+
 .bot1:hover{
     animation: none;
     transition: 1s;
