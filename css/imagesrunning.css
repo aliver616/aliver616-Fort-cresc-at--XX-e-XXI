@@ -24,18 +24,17 @@
   border-style:solid;
   box-sizing: border-box;
   border-width: 2px;
-  align-items: center;
+  height: auto;
 }
 .canva img{
-  display: flex;
-  flex-direction: column;
-  width: 200px;
+  width: 75vw;
   height: auto;
   column-gap: normal;
+  display: block; 
+  margin: auto;
 }
 .canva p{
-    display: flex;
     box-sizing: content-box;
     text-align: center; 
-    font-size: 8px;
+    font-size: 12px;
 }
