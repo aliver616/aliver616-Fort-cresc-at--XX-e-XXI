@@ -1,6 +1,7 @@
 .conteiner2{
     width: 100%;
     overflow: hidden;
+    height: auto;
     mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
 }
 .scroll{
@@ -23,16 +24,21 @@
 .canva{
   border-style:solid;
   box-sizing: border-box;
-  border-width: 2px;
-  height: auto;
+  border-width: 4px;
+  height: 75vw;
+  width: auto;
   border-color: black;
+  border-radius: 60px;
+  margin-bottom: 7px;
 }
 .canva img{
   width: 90vw;
-  height: auto;
+  height: 60vw;
   column-gap: normal;
   display: block; 
   margin: auto;
+  border-width: 2px 0 0 0;
+  border-color:black;
 }
 .canva p{
     box-sizing: content-box;
