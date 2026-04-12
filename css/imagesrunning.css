@@ -29,11 +29,11 @@
   width: auto;
   border-color: black;
   border-radius: 60px;
-  margin-bottom: 7px;
+  margin-bottom: 10vw;
 }
 .canva img{
   width: 90vw;
-  height: 60vw;
+  height: 50vw;
   column-gap: normal;
   display: block; 
   margin: auto;
