@@ -25,9 +25,10 @@
   box-sizing: border-box;
   border-width: 2px;
   height: auto;
+  border-color: black;
 }
 .canva img{
-  width: 75vw;
+  width: 90vw;
   height: auto;
   column-gap: normal;
   display: block; 
