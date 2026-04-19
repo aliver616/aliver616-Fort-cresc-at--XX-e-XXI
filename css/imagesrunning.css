@@ -12,6 +12,8 @@
 .scroll img {
   width: 200px;
   margin-right: 10px;
+  width: auto;
+  height: 25vw;
 }
 @keyframes rolar {
   from {
@@ -44,3 +46,4 @@
     text-align: center; 
     font-size: 3vw;
 }
+
