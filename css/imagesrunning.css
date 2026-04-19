@@ -44,6 +44,6 @@
 .canva p{
     box-sizing: content-box;
     text-align: center; 
-    font-size: 3vw;
+    font-size: clamp(18px, 3vw, 25px);
 }
 
