@@ -27,7 +27,7 @@
   border-style:solid;
   box-sizing: border-box;
   border-width: 2px;
-  height: 75vw;
+  height: auto;
   width: auto;
   border-color: black;
   margin-bottom: 10vw;
