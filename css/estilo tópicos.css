@@ -52,7 +52,7 @@ img{
 .txt{
     display: flex;
     flex-wrap: wrap; 
-    font-size: 6px;
+    font-size: clamp(6px, 1vw, 12px);
     justify-content: center;
     height:auto;
     flex-direction:column;
